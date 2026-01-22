@@ -1,0 +1,72 @@
+html{
+    min-height: 100%;
+    box-sizing: border-box;
+}
+body{
+    /* background-color: #63ff8294; */
+    color: black;
+    margin: 0 100px;
+}
+a{
+    text-decoration: none;
+    color: #000;
+    
+}
+ul{
+     width: 330px;
+    height: 21px;
+    justify-content: space-between;
+    list-style-type: none;
+    display: flex;
+}
+nav .xarala{
+    width: 110px;
+    height: 23.72px;
+    margin: 21px;
+}
+.parent{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+     margin-bottom: 80px;
+}
+
+
+.submit{
+    background: linear-gradient(#FF6600, #42210B);
+    margin: 15px 57PX;
+    border-radius: 5px;
+    width: 330px;
+    height: 52px;
+}
+
+.section-un {
+     width: 1500px;
+     height: 600px;
+      top: 144px;
+      left: 114px;
+      background-color: #ff6600;
+      border-radius: 64px;
+    
+    }
+.p1{
+    width: 1002px;
+    top: 538px;
+    font-family: calibri;
+    color: #fff;
+    font-size: xx-large;
+    text-align: center;
+    margin-top: 52px;
+    padding-top: 52px;
+}
+.p2{
+    width: 1002px;
+    top: 538px;
+    font-family: calibri;
+    text-align: center;
+    margin: 24px 51px;
+    color: #fff;
+    left: 363px;
+    height: 120px;
+    border-color:#ffffff ;
+}

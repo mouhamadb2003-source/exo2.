@@ -1,0 +1,74 @@
+html{
+    background-color: aliceblue;
+}
+body{ 
+  width: 600px;
+  background-color: rgb(184, 185, 153);
+  margin: 0 auto;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+
+.titre{
+    color: greenyellow;
+    font-size: 5rem;
+   font-weight: 400;
+    text-transform: uppercase;
+    line-height: 1,5;
+    letter-spacing: 1,5;
+    text-align: center;
+    font-style: oblique;
+    font-family: serif;
+
+}
+
+.dev{
+    text-align: center;
+}
+.lif{
+   
+    border-color: blueviolet;
+}
+#Javascript{
+    color: blue;
+}
+span{
+    background-color: aliceblue;
+}
+strong{
+    color: rebeccapurple;
+}
+em{
+    color: #2c2c2c;
+}
+img{
+display: block;
+max-width: 100%;
+margin: auto;
+}
+.contener{
+   background: #833AB4;
+background: linear-gradient(90deg, rgba(131, 58, 180, 1) 0%, rgba(253, 29, 29, 0.91) 50%, rgba(252, 176, 69, 1) 100%); ;
+    
+}
+.section{
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr;
+    gap: 10px;
+    grid-auto-rows: 100px;
+ 
+}
+.droite{
+    background-color: beige;
+  
+}
+.gauche{
+    background-color: #edaeae;
+   
+}
+.center{
+    background-color: blueviolet;
+   
+
+}
+
